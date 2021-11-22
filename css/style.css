@@ -1,0 +1,16 @@
+.infosection {
+    margin-top: 10px;
+}
+
+#bullets table {
+    width: 300px;
+    margin: 0 auto;
+}
+
+#bullets table td{
+    width: 150px;
+}
+
+#bullets table tr td:nth-child(2){
+    text-align: right;
+}
